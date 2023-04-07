@@ -1,4 +1,7 @@
 # 拼夕夕
 DOMAIN-SUFFIX,temu.com
 # do not desc
+DOMAIN-SUFFIX,jellyfin.org
+DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,caddyserver.com
 
